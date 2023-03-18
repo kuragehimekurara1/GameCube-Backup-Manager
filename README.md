@@ -45,7 +45,9 @@ All Releases: https://github.com/AxionDrak/GameCube-Backup-Manager/releases
   + Portuguese (Brazil)
   + English (United States)
   + Spanish (Spain)
-  + Korean (Korea)
+  + Korean (Korea)  
+  + Japanese (Japan)
+  + Ryukyuan (Japan)
 + More polished and functional graphical interface (UI).
 
 ### Requirements
